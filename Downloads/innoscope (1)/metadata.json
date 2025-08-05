@@ -1,0 +1,6 @@
+{
+  "name": "InnoScope",
+  "description": "An AI-powered research assistant to analyze project novelty, identify research gaps, and generate innovative suggestions.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
