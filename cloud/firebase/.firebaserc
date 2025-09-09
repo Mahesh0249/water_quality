@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "sportstalent-ai"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
